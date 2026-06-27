@@ -1,5 +1,5 @@
 # Welcome to Charles' GitHub Page! 🇨🇳
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charZZH&theme=zenburn)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CharZZH&theme=zenburn)
 
 ---
 
